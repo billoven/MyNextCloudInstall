@@ -9,10 +9,11 @@
 
 ## 🧩 1. Purpose
 
-This document explains how to **install, configure, and maintain Nextcloud** on a self-hosted server in a **multi-webapp environment** (`/var/www`) alongside other applications such as `cashcue`, `adminer`, and `wconditions`.
+This document explains how to **install, configure, and maintain Nextcloud** on a self-hosted server in a **multi-webapp environment** (`/var/www`) alongside other applications such as `cashcue*`, `adminer`, and `wconditions*`.
 
 It also describes the **automated installation script** that simplifies deployment, configuration, and certificate management.
 
+* These are Billoven personal applications that have nothing to deal with NextCloud.
 ---
 
 ## ⚙️ 2. System Requirements
