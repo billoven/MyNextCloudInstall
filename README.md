@@ -4,6 +4,15 @@
 
 **Project Repository:** [https://github.com/billoven/MyNextCloudInstall](https://github.com/billoven/MyNextCloudInstall)
 
+## Legal & Attribution
+
+This project provides an automated installation script for Nextcloud servers.
+
+- Nextcloud © Nextcloud GmbH. Licensed under the GNU AGPLv3.
+- This script is an independent work by Pierre (https://github.com/billoven).
+- No affiliation or endorsement by Nextcloud GmbH is implied.
+- This script is licensed under the MIT License (see LICENSE file).
+
 ---
 
 ## Overview
