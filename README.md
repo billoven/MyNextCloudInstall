@@ -48,13 +48,13 @@ cd MyNextCloudInstall
 2. Make the script executable:
 
 ```bash
-chmod +x install_nextcloud.sh
+chmod +x nextcloud-auto-install.sh
 ```
 
 3. Run the script with sudo:
 
 ```bash
-sudo ./install_nextcloud.sh
+sudo ./nextcloud-auto-install.sh
 ```
 
 Follow the interactive prompts for IP addresses, passwords, and admin account setup.
